@@ -10,18 +10,18 @@
     <script src="assets/template/front_office/jquery.min.js"></script>
     <script src="assets/plugins/datatable_b5/jquery.dataTables.min.js"></script>
     <script src="assets/plugins/datatable_b5/dataTables.bootstrap5.min.js"></script>
-    <title>Perpustakaan Pusat UIN Malang</title>
+    <title>Perpustakaan Pusat UBHI</title>
   </head>
   <body>
     <nav class="navbar navbar-light bg-light">
       <div class="container">
         <a class="navbar-brand" href="<?= $base_url; ?>">
-          <img src="archive/user-rigen.png" alt="Logo">
+          <img src="archive/faruq-image.jpg" alt="Logo">
         </a>
         <span class="mb-3 mt-3">
-          <b>UIN Maulana Malik Ibrahin Malang</b><br>
-          Kantor Pusat Information Center Jl. Gajayana No.50<br>
-          Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144.
+          <b>Universitas Bhinneka PGRI</b><br>
+          Kantor Perpustakaan Pusat JL. Mayor Sujadi Timur No 7 <br>
+          Tulungagung, Kode Pos 66221.
         </span>
       </div>
     </nav>

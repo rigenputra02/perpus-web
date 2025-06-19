@@ -80,7 +80,7 @@ if(isset($_POST['submit'])) {
     </div>
     <div class="col-md-7">
       <h4 class="mb-3">Lokasi</h4>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.465971645022!2d112.60515297500677!3d-7.950703492073705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7882721245549f%3A0x750a818734e99f60!2sPerpustakaan%20Pusat%20UIN%20Maulana%20Malik%20Ibrahim%20Malang!5e0!3m2!1sid!2sid!4v1750342749610!5m2!1sid!2sid" width="100%" height="325" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d246.88967936773102!2d111.9219761!3d-8.0775119!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78e30ea6877ccd%3A0x450dff8d9025c326!2sUniversitas%20Bhinneka%20PGRI%20Tulungagung!5e0!3m2!1sid!2sid!4v1750351075206!5m2!1sid!2sid" width="100%" height="325" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
   </div>
 </div>
@@ -91,9 +91,9 @@ if(isset($_POST['submit'])) {
         <div class="text-center">
           <h5 class="text-white">Kontak</h5>
           <p class="text-white">
-          Kantor Pusat Information Center Jl. Gajayana No.50<br>
-          Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144.<br>
-            Email : library.uin-malang.ac.id
+          Universitas Bhinneka PGRI Tulungagung.<br> Alamat lokasi: Jl. Mayor Sujadi No.7<br>
+          Tulungagung, Kode Pos 66229.<br>
+            Email : info@ubhi.ac.id
           </p>
         </div>
       </div>
