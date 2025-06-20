@@ -16,7 +16,7 @@
     <nav class="navbar navbar-light bg-light">
       <div class="container">
         <a class="navbar-brand" href="<?= $base_url; ?>">
-          <img src="archive/faruq-image.jpg" alt="Logo">
+          <img src="archive/kampus-logo.jpg" alt="Logo">
         </a>
         <span class="mb-3 mt-3">
           <b>Universitas Bhinneka PGRI</b><br>
