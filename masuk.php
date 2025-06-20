@@ -52,8 +52,8 @@ if(isset($_POST['submit'])) {
             </form>
           </div>
           <div class="card-footer">
-            <a href="daftar.php" class="btn btn-primary btn-sm">Daftar disini.</a>
-            <a href="admin/login.php" class="btn btn-info btn-sm text-white">Petugas.</a>
+            <a href="daftar.php" class="btn btn-primary btn-sm">Daftar disini</a>
+            <a href="admin/login.php" class="btn btn-info btn-sm text-white">Petugas</a>
           </div>
         </div>
       </div>

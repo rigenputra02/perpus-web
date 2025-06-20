@@ -4,7 +4,8 @@ session_start();
 date_default_timezone_set('Asia/Jakarta');
 
 $conn        = mysqli_connect('localhost', 'root', '', 'perpustakaan');
-$base_url    = 'http://localhost/perpustakaan-main';
+// $base_url    = 'http://localhost/perpustakaan-main';
+$base_url    = 'https://d033-180-248-21-181.ngrok-free.app/perpustakaan-main';
 $uri_segment = explode('/', parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
 
 function uuid() {
